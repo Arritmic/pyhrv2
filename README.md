@@ -9,9 +9,9 @@
 ![Downloads](https://img.shields.io/pypi/dm/pyhrv.svg)
 ![License](https://img.shields.io/pypi/l/pyhrv.svg)
 
-pyHRV is an open-source Python toolbox that computes state-of-the-art Heart Rate Variability (HRV) parameters from Electrocardiography (ECG), SpO2, Blood Volume Pulse (BVP), or other signals with heart rate indicators.
+pyHRV2 is an open-source Python toolbox that computes state-of-the-art Heart Rate Variability (HRV) parameters from Electrocardiography (ECG), SpO2, Blood Volume Pulse (BVP), or other signals with heart rate indicators.
 
-With pyHRV, we aim to provide a user-friendly and versatile Python toolbox for HRV dedicated education, research, and application development.
+With pyHRV2, we aim to provide a user-friendly and versatile Python toolbox for HRV dedicated education, research, and application development.
 
 It provides provides comprehensible source code to help beginners understand the fundamentals of HRV parameter computation, while providing the most important HRV analysis functionalities for developers and publication-quality plots of the results for researchers.
 # Getting Started
@@ -24,7 +24,7 @@ pip install pyhrv
 ```
 Dependencies: [biosppy](https://github.com/PIA-Group/BioSPPy) | [numpy](http://www.numpy.org) | [scipy](http://scipy.org) | [matplotlib](https://matplotlib.org) | [nolds](https://github.com/CSchoel/nolds) | [spectrum](https://github.com/cokelaer/spectrum)
 
-pyHRV is primarily maintained in Python 3.X but has been tested under Python 2.7 up to version 0.4.0.
+pyHRV2 is primarily maintained in Python 3.X but the original repository (pyHRV) has been tested under Python 2.7 up to version 0.4.0.
 
 
 ### Documentation & Tutorials
